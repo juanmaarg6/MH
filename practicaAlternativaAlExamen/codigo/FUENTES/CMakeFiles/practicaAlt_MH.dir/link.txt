@@ -1,0 +1,1 @@
+/usr/bin/c++  -O2 CMakeFiles/practicaAlt_MH.dir/SRC/util.cpp.o CMakeFiles/practicaAlt_MH.dir/SRC/pAlternativa.cpp.o CMakeFiles/practicaAlt_MH.dir/SRC/main.cpp.o -o /home/juanmaarg6/Escritorio/software/BIN/practicaAlt_MH 
