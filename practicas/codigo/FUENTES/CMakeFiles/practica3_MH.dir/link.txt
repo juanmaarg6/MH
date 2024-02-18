@@ -1,0 +1,1 @@
+/usr/bin/c++  -O2 CMakeFiles/practica3_MH.dir/SRC/util.cpp.o CMakeFiles/practica3_MH.dir/SRC/p1.cpp.o CMakeFiles/practica3_MH.dir/SRC/p2.cpp.o CMakeFiles/practica3_MH.dir/SRC/p3.cpp.o CMakeFiles/practica3_MH.dir/SRC/main.cpp.o -o /home/juanmaarg6/Escritorio/software/BIN/practica3_MH 
