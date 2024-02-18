@@ -1,3 +1,0 @@
-/home/juanmaarg6/Escritorio/software/FUENTES/CMakeFiles/practicaAlt_MH.dir
-/home/juanmaarg6/Escritorio/software/FUENTES/CMakeFiles/edit_cache.dir
-/home/juanmaarg6/Escritorio/software/FUENTES/CMakeFiles/rebuild_cache.dir
